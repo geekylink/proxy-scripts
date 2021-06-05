@@ -7,6 +7,8 @@
 
 Usage: proxyswitcher.sh CMD
 
+Dependencies: sqlite3
+
 **Commands:**
 
 initdb                - Create the proxy database, must be run first time
