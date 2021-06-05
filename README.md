@@ -5,9 +5,9 @@
      This program may be freely redistributed under
      the terms of the GNU General Public License.
 
-Usage: proxyswitcher.sh CMD
+Dependencies: sqlite3, wget
 
-Dependencies: sqlite3
+Usage: proxyswitcher.sh CMD
 
 **Commands:**
 
